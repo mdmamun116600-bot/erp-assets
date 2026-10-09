@@ -1,0 +1,1 @@
+AddCharModel 286 286 "admin.dff" "admin.txd"
